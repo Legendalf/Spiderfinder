@@ -1,4 +1,4 @@
-# Fiberlingenerator (программирование проект 6 семестр)
+# Spiderfinder (программирование проект 6 семестр)
 
 ![wtf](https://user-images.githubusercontent.com/85545204/233546946-8a94adc7-1cf2-43ed-9f58-6a02946c9d78.png)
 
